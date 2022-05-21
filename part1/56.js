@@ -5,10 +5,16 @@
 // function myFunc(number, index){
 //     console.log(`index is ${index} number is ${number}`);
 // }
+// for (let i=0; i<numbers.length; i++){
+//     myFunc(numbers[i],i);
+// }
 
-// numbers.forEach(function(number,index){
-//     console.log(`index is ${index} number is ${number}`);
-// });
+//above code replaced b  y ussing for each
+//for each - using it we dont need to use for loop syntax as below-
+
+numbers.forEach(function(number,index){
+    console.log(`index is ${index} number is ${number}`);
+});
 
 // numbers.forEach(function(number, index){
 //     console.log(number*3, index);

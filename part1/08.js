@@ -28,3 +28,14 @@
 // let age = "18";
 // age = Number(age);
 // console.log(typeof age);
+
+/* 
+undefined : it is a primitive value automatically assigned to variables that have just been declared, or to formal
+arguments for which there are no actual arguments.
+ex:
+
+var x; //create a variable but assign it no value
+console.log("x's value is ", x) //logs "x's value is undefined"
+
+
+ */

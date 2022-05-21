@@ -36,3 +36,9 @@ const findTarget = function(array, target){
     }
     return -1;
 }
+
+// const sum= function(a,b){
+//  return a+b;
+// }
+// const add= sum(4,44);
+// console.log(add)

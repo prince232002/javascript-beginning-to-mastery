@@ -18,3 +18,8 @@ if(userGuess === winningNumber){
         console.log("too high !!!");
     }
 }
+
+/* 
+What is a prompt in JavaScript?
+The prompt() method is used to display a dialog with an optional message prompting the user to input some text.
+ */

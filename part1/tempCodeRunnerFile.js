@@ -1,3 +1,3 @@
-poppedFruit = fruits.pop();
-console.log(fruits);
-console.log("
+.keys(person)){
+    console.log(person[key]);
+}

@@ -17,7 +17,15 @@ const obj2 = {
   key4: "value4",
 };
 
-// const newObject = { ...obj2, ...obj1, key69: "value69" };
+const newObject = { ...obj2, ...obj1, key69: "value69" };
 // const newObject = { ...["item1", "item2"] };
 // const newObject = { ..."abcdefghijklmnopqrstuvwxyz" };
-// console.log(newObject);
+console.log(newObject);
+
+
+/* 
+note--
+line 20 output you will see only one key1 with obj1 as priority as no similar key repeats within same object 
+i.e, newObject 
+
+ */

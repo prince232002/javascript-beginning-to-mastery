@@ -16,4 +16,6 @@ const userCart = [
 ]
 
 const ans = userCart.some((cartItem)=>cartItem.price > 100000);
-console.log(ans);
+console.log(ans); 
+// const anw = userCart.some((cartItem)=>cartItem.productName.length > 6);
+// console.log(anw); 

@@ -1,5 +1,6 @@
-// map method 
-// const numbers = [3,4,6,1,8];
+// map method --
+
+// // const numbers = [3,4,6,1,8];
 
 // const square = function(number){
 //     return number*number;
@@ -22,3 +23,9 @@ const userNames = users.map((user)=>{
 });
 
 console.log(userNames);
+
+
+// map() creates a new array from calling a function for every array element.
+// map() calls a function once for each element in an array.
+// map() does not execute the function for empty elements.
+// map() does not change the original array.

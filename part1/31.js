@@ -1,7 +1,7 @@
-// use const for creating array
+// use const for creating array as it is not going to changed if you need reassigning then go for let.
 
 // heap memory ["apple", "mango"] 0x11
 
-// const fruits = ["apple", "mango"]; // 0x11
-// fruits.push("banana");
-// console.log(fruits);
+let fruits = ["apple", "mango"]; // 0x11
+fruits.push("banana");
+console.log(fruits);

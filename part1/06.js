@@ -10,7 +10,7 @@ let firstName = "harshitdfjakldsfdf";
 // firstName.length 
 
 console.log(firstName.length);
-
+//print indexed string variable 
 console.log(firstName[firstName.length-2]);
 
 // last Index : length - 1 

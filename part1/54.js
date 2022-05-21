@@ -1,4 +1,4 @@
-// callback functions 
+// callback functions -- calling function as parameter then callback it 
 
 function myFunc2(name){
     console.log("inside my func 2")
@@ -9,6 +9,6 @@ function myFunc(callback){
     console.log("hello there I am a func and I can..")
     callback("harshit");
 }
-
+ 
 
 myFunc(myFunc2);

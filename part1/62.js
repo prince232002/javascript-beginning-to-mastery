@@ -12,6 +12,8 @@ const userCart = [
     {productId: 3, productName: "tv", price: 35000},
 ]
 
-
+ 
 const ans = userCart.every((cartItem)=>cartItem.price < 30000);
-console.log(ans);
+console.log(ans); 
+// const anw= userCart.every((cartItems)=>cartItems.productName.length>1)
+// console.log(anw); 

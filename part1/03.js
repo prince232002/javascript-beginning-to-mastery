@@ -1,7 +1,7 @@
 // rules for naming variables 
 
 // you cannot start with number 
-// example :- 
+// for example :- 
 // 1value (invalid)
 // value1 (valid)
 

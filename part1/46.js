@@ -3,7 +3,7 @@
 //     console.log("happy birthday to you ......");
 // }
 
-const singHappyBirthday = () => {
+const singHappyBirthday = () => {                  //function replaced by ()
     console.log("happy birthday to you ......");
 }
 
@@ -19,6 +19,8 @@ console.log(ans);
 // const isEven = function(number){
 //     return number % 2 === 0;
 // }
+
+//arrow function for return type function ---
 
 const isEven = number => number % 2 === 0;
 

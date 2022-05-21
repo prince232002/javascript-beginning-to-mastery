@@ -9,3 +9,7 @@ const users = [
 for(let user of users){
     console.log(user.firstName);
 }
+/* 
+The for...of statement creates a loop iterating over iterable objects, including: built-in String, Array, array-like 
+objects
+ */

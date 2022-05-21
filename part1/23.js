@@ -1,4 +1,4 @@
-// for loop example 
+// for loop example
 
 let total = 0;
 

@@ -9,7 +9,7 @@
 //     console.log(firstName);
 // }
 
-// console.log(firstName);
+// console.log(firstName);  
 
 function myApp(){
     if(true){

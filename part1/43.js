@@ -9,3 +9,6 @@ const [{firstName: user1firstName, userId}, , {gender: user3gender}] = users;
 console.log(user1firstName);
 console.log(userId);
 console.log(user3gender);
+// for(let user of users){
+    console.log(users);
+// }

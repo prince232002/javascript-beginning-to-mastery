@@ -1,6 +1,6 @@
 // while loop example 
 let num = 100;
-// let total = 0; //1 + 2 +3
+// let total = 0; // 1 + 2 + 3
 // let i = 0;
 
 

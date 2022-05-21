@@ -1,13 +1,15 @@
-"use strict";
+// "use strict";
+//strict means we cant use undeclared variables 
 // intro to variables
 
 // variables can store some information
 // we can use that information later
 // we can change that information later
 
-// declare a variable 
+// declare a variable     
 
-var firstName = "Harshit";
+ var firstName = "Harshit";
+//  firstName = "Harshit";
 
 // use a variable 
 console.log(firstName);

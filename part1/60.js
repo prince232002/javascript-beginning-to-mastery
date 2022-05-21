@@ -101,10 +101,12 @@
 // ["5", "9", "1210", "410", "3000"] 
 // [53, 57, 49, 52, 51]
 
-// const userNames = ['harshit', 'abcd', 'mohit', 'nitish', 'aabc', 'ABC', 'Harshit'];
-// userNames.sort();
-// console.log(userNames);
+const userNames = ['harshit', 'abcd', 'mohit', 'nitish', 'aabc', 'ABC', 'Harshit'];
+userNames.sort();
+console.log(userNames);
 
+
+//javascript sort by ascii code as string not number by checking first character of string comparing it to other then if same char then check for second and so on . then print sorted  array .
 // const numbers = [5,9,1200, 410, 3000];
 // numbers.sort((a,b)=>{
 //     return b-a;

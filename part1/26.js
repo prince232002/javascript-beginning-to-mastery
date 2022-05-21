@@ -1,6 +1,6 @@
 // intro to arrays 
 // reference type 
-// how to create arrays
+// how to create arrays (using [] seperated by commas )
 
 // ordered collection of items 
 
@@ -11,7 +11,7 @@
 // console.log(numbers);
 // console.log(fruits[2]);
 let fruits = ["apple", "mango", "grapes"];
-let obj = {}; // object literal
+let obj = {}; // object literal using { }
 // console.log(fruits);
 // fruits[1] = "banana";
 // console.log(fruits);
