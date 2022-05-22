@@ -1,3 +1,2 @@
-.keys(person)){
-    console.log(person[key]);
-}
+ue2
+// }

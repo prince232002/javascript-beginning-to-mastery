@@ -1,3 +1,4 @@
+//function declaration ------------------------
 function singHappyBirthday(){
     console.log("happy birthday to you ......");
 }
@@ -41,5 +42,9 @@ function findTarget(array, target){
     return -1;
 }
 const myArray = [1,3,8,90]
+
+//o/p----------------------- 
 const ans = findTarget(myArray, 4);
 console.log(ans);
+//or 
+// console.log(findTarget(myArray, 90));

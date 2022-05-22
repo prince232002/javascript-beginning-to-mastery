@@ -42,3 +42,10 @@ const findTarget = function(array, target){
 // }
 // const add= sum(4,44);
 // console.log(add)
+
+/* 
+What does a JavaScript function return if no return is given?
+A function without a return statement will return a default value. In the case of a constructor called with the new 
+keyword, the default value is the value of its this parameter. For all other functions, the default return value is 
+undefined
+ */
